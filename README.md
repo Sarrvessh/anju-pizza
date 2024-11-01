@@ -1,11 +1,6 @@
-# Pizzeria
+# Sanjana's Artisan Pizzeria
 Pizzeria is a full stack pizza delivery web app which allows you to select your favourite pizzas, register into the app and see your previous orders.
 
-<p align="center">
-  <img src="https://i.ibb.co/Lr4623N/logo.png" alt="logo" border="0">
-</p>
-
-App is live [here](http://blitzar-pizzeria.herokuapp.com/)
 
 ## Features of the app:
 - Users can login or register into the database 
@@ -20,7 +15,5 @@ App is live [here](http://blitzar-pizzeria.herokuapp.com/)
 - Backend is made using ExpressJS
 - Frontend is made using ReactJS and Redux
 - MongoDB is used as the database
-- RazorPay is used for processing payments
 - User session is stored using JWT
-- Sendgrid is used for sending password reset OTP
 - Bootstrap is used for CSS and styling
